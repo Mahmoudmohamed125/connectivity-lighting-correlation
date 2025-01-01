@@ -27,3 +27,5 @@ Japan_light_intensity.csv
 Philippines_light_intensity.csv
 SVDNB_npp_20230101-20230131_75N060E_vcmcfg_v10_c202302080600.avg_rade9h.tif
 Taiwan_light_intensity.csv
+combined_tiles_2021.csv
+Japan_light_intensity_normalized.csv
