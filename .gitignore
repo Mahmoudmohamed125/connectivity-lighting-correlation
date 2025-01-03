@@ -20,13 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Virtual environment folder
 env/*
-SVDNB_npp_20230101-20230131_00N060E_vcmcfg_v10_c202302080600.avg_rade9h.tif
-aggregate_by_county_py (3).ipynb
-Japan_light_intensity.csv
-Philippines_light_intensity.csv
-SVDNB_npp_20230101-20230131_75N060E_vcmcfg_v10_c202302080600.avg_rade9h.tif
-Taiwan_light_intensity.csv
-combined_tiles_2021.csv
-Japan_light_intensity_normalized.csv
+#Data analysis
+datasets/inputs/*
 VNL_v21_npp_2021_global_vcmslcfg_c202205302300.average.dat.tif
