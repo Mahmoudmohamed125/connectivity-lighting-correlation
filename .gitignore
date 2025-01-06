@@ -24,4 +24,5 @@ TestResults.xml
 env/*
 #Data analysis
 datasets/inputs/*
+VNL_v21_npp_2020_global_vcmslcfg_c202205302300.average.dat.tif
 VNL_v21_npp_2021_global_vcmslcfg_c202205302300.average.dat.tif
